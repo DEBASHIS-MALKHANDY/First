@@ -14,7 +14,7 @@ public class Operation {
 		Dbservice ds=new Dbservice();
 		while(condition) {
 			try {
-				System.out.println("Enter Choice");
+				System.out.println("Enter A Choice");
 				System.out.println("1. Insert");
 				System.out.println("2. Select All");
 				System.out.println("3. Select Employees By Id");
